@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="dpdpdp.About">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>kIAAAAgAACAgCAUAAACAAAADAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>About.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.AddTest">
+    <Position X="21" Y="1.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAAgABAICAAAhEEwCGQAlACAgAgChAAACEAAAIAAAI=</HashCode>
+      <FileName>AddTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.Auth">
+    <Position X="8" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AARACAgAACAAACCABQKCAIAOgADAIAAAAEIAAwQAAAQ=</HashCode>
+      <FileName>Auth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.classLeft">
+    <Position X="4" Y="8.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>classLeft.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.currentUser">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAAAEAAAAAIAAAAAAAABAAAAAAAAAAAAAAAAIAAgA=</HashCode>
+      <FileName>currentUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.EditAdmin">
+    <Position X="4" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABABAAAAACAAABAAABCEgAAOAAAAAAAAAAACABAEAAA=</HashCode>
+      <FileName>EditAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.EditSpeecher">
+    <Position X="6" Y="6.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAABAAAACAAAACAAgAAggAAAACgAAAAAA=</HashCode>
+      <FileName>EditSpeecher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.EditTest">
+    <Position X="4" Y="3" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAABQICAAExGUximoAoICEkUAijJKhGBAJBIGBGI=</HashCode>
+      <FileName>EditTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.EditTheory">
+    <Position X="6" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QQAIBCAQACgAUBAFAADAAIAGECFAARRiAC8AAhIAQCQ=</HashCode>
+      <FileName>EditTheory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.Interactive">
+    <Position X="10" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MKQAIQBKICFEQIgiAACbRAMTQJACBhGcACAwkQIQACE=</HashCode>
+      <FileName>Interactive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.mail">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>mail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.MainForm">
+    <Position X="12.25" Y="5.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAoAALAACAChAACABCBAAACQAAAIISAMAQQAQBEBgg=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.manager">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.Program">
+    <Position X="2.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.Reg">
+    <Position X="8" Y="4.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gISECAAABCAEADCEAACOApAuIAnAIAAABAAAAwAEECQ=</HashCode>
+      <FileName>Reg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.SendMessage">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAIABCAgAAOAAAAAAAAAAACABAAAgA=</HashCode>
+      <FileName>SendMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.speecher">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>speecher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.Testing">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IARFABCACCQCFBEIDACsAoErAAQBPApIAIBhMAkAAEU=</HashCode>
+      <FileName>Testing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.Theory">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAIIAgAAACAAAICAAhAAAAAAAAAggCAACA=</HashCode>
+      <FileName>Theory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.Users">
+    <Position X="12.25" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ExAGCAiQACgMEBggABCNEQIOoBiHABogBIAGBhKEAqE=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.usersDBDataSet" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAACyAAgALABAAGQAAAAAgGQBgAAAQAAAEARBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.Properties.Resources">
+    <Position X="10" Y="5.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.Properties.Settings">
+    <Position X="6" Y="5.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAQAAAAAIAAAAAAhAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.usersDBDataSetTableAdapters.rolesTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.usersDBDataSetTableAdapters.testingTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.usersDBDataSetTableAdapters.usersTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpdpdp.usersDBDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAASAAAABABAEBAAAAMAAkQAACgAAAAAUAAAIARAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp2.GameLife">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IASAQAQQiGAIEBAQAQbCIAQCEgCIIQgBQAIBEQAAAAA=</HashCode>
+      <FileName>GameLife.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

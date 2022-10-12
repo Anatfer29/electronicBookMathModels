@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="dpdpdp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="usersDBConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-LCGCSJ1\SQLEXPRESS;Initial Catalog=usersDB;User ID=illumate;Password=123&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-LCGCSJ1\SQLEXPRESS;Initial Catalog=usersDB;User ID=illumate;Password=123</Value>
+    </Setting>
+    <Setting Name="adminEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">anatfer@yandex.ru</Value>
+    </Setting>
+    <Setting Name="adminPasswordEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">23734652seruva27an</Value>
+    </Setting>
+    <Setting Name="adminPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

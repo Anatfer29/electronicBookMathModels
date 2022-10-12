@@ -1,0 +1,126 @@
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\bin\Debug\dpdpdp.exe.config
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\bin\Debug\dpdpdp.exe
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\bin\Debug\dpdpdp.pdb
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.CreateTest.resources
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Properties.Resources.resources
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.exe
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.pdb
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.MainForm.resources
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Testing.resources
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.interactive.resources
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.reg.resources
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Theory.resources
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\bin\Debug\MetroFramework.dll
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.CopyComplete
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Users.resources
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.AddTheory.resources
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Auth.resources
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.SendMessage.resources
+C:\Users\anton\source\repos\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\bin\Debug\dpdpdp.exe.config
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\bin\Debug\dpdpdp.exe
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\bin\Debug\dpdpdp.pdb
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\bin\Debug\MetroFramework.dll
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.AddTheory.resources
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Auth.resources
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.CreateTest.resources
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.interactive.resources
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.MainForm.resources
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.reg.resources
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.SendMessage.resources
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Testing.resources
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Theory.resources
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Users.resources
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.exe
+C:\Users\Пользователь\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.pdb
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\bin\Debug\dpdpdp.exe.config
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\bin\Debug\dpdpdp.exe
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\bin\Debug\dpdpdp.pdb
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\bin\Debug\MetroFramework.dll
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.AddTheory.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Auth.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.CreateTest.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.interactive.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.MainForm.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Properties.Resources.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.reg.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.SendMessage.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Testing.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Theory.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Users.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.CopyComplete
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.exe
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.pdb
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.EditAdmin.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.EditSpeecher.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.EditTest.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.EditTheory.resources
+C:\Users\anton\Desktop\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csprojAssemblyReference.cache
+D:\Диплом\dpdpdp\dpdpdp\bin\Debug\dpdpdp.exe.config
+D:\Диплом\dpdpdp\dpdpdp\bin\Debug\dpdpdp.exe
+D:\Диплом\dpdpdp\dpdpdp\bin\Debug\dpdpdp.pdb
+D:\Диплом\dpdpdp\dpdpdp\bin\Debug\MetroFramework.dll
+D:\Диплом\dpdpdp\dpdpdp\bin\Debug\MetroFramework.Fonts.dll
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csprojAssemblyReference.cache
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.About.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Auth.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.EditAdmin.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.EditSpeecher.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.EditTest.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.EditTheory.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.interactive.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.MainForm.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Properties.Resources.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.reg.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.SendMessage.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Testing.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Theory.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Users.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.GenerateResource.cache
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.CoreCompileInputs.cache
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.CopyComplete
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.exe
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.pdb
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.AddTest.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\WindowsFormsApp2.GameLife.resources
+D:\Диплом\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Reference.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\bin\Debug\dpdpdp.exe.config
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\bin\Debug\dpdpdp.exe
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\bin\Debug\dpdpdp.pdb
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\bin\Debug\MetroFramework.dll
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\bin\Debug\MetroFramework.Fonts.dll
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csprojAssemblyReference.cache
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.About.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Auth.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.AddTest.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.EditAdmin.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.EditSpeecher.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.EditTest.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.EditTheory.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\WindowsFormsApp2.GameLife.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Interactive.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.MainForm.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Properties.Resources.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Reference.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Reg.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.SendMessage.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Testing.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Theory.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.Users.resources
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.GenerateResource.cache
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.CoreCompileInputs.cache
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.csproj.CopyComplete
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.exe
+F:\Дипломный проект\Проект\dpdpdp\dpdpdp\obj\Debug\dpdpdp.pdb

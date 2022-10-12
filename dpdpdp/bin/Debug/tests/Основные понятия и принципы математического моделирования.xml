@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<test>
+  <question1 time="20" text="На каком этапе выясняется характер законов и связей, действующих в системе?" type="radio">
+    <answer isAnswer="false">определение математической модели</answer>
+    <answer isAnswer="false">изучение математической модели</answer>
+    <answer isAnswer="true">создание качественной модели</answer>
+    <answer isAnswer="false">создание математической модели</answer>
+  </question1>
+  <question2 time="25" text="Выберите основные этапы метода математического моделирования" type="check">
+    <answer isAnswer="false">выбор математической модели</answer>
+    <answer isAnswer="true">изучение математической модели</answer>
+    <answer isAnswer="true">создание математической модели</answer>
+    <answer isAnswer="true">создание качественной модели</answer>
+  </question2>
+  <question3 time="15" text="Что такое создание качественной модели?" type="radio">
+    <answer4 isAnswer="true">формулировка физических закономерностей явления или процесса на основании эксперимента</answer4>
+    <answer3 isAnswer="false">формулировка природных закономерной влияющих на объект</answer3>
+    <answer2 isAnswer="false">обоснование свойств объекта с точки зрения математики</answer2>
+    <answer1 isAnswer="false">описание объекта с помощью математического уравнения</answer1>
+  </question3>
+  <question4 time="15" text="Какая модель является детерминированной?" type="radio">
+    <answer4 isAnswer="false">модель невозможно описать</answer4>
+    <answer3 isAnswer="true">модель описывается некоторыми уравнениями</answer3>
+    <answer2 isAnswer="false">модель описывается на основе её явлений</answer2>
+    <answer1 isAnswer="false">математическая модель описывается на основе качественной модели</answer1>
+  </question4>
+  <question5 time="60" text="Назовите первый этап метода математического моделирования" type="text">
+    <answer>Создание качественной модели</answer>
+  </question5>
+  <question6 time="30" text="Выберите этапы изучения математической модели" type="check">
+    <answer4 isAnswer="false">аналоговое ислледование модели</answer4>
+    <answer3 isAnswer="true">численное исследование модели</answer3>
+    <answer2 isAnswer="true">качественное исследование модели</answer2>
+    <answer1 isAnswer="true">математическое обоснование модели</answer1>
+  </question6>
+  <question7 time="30" text="Если модель описывается вероятностными законами, то она называется" type="text">
+    <answer>стохастической</answer>
+  </question7>
+  <question8 time="40" text="Введите количество этапов метода математического моделирования" type="text">
+    <answer>5</answer>
+  </question8>
+  <question9 time="40" text="Выберите этапы создания математической модели" type="radio">
+    <answer4 isAnswer="true">выделение дополнительных условий</answer4>
+    <answer3 isAnswer="false">выявить главные, характерные черты явления или процесса</answer3>
+    <answer2 isAnswer="false">разработка алгоритма</answer2>
+    <answer1 isAnswer="false">выделение существенных факторов</answer1>
+  </question9>
+  <question10 time="30" text="Отличие компьютерного и натурного эксперимента" type="radio">
+    <answer4 isAnswer="true">компьютерный эксперимент дешевле, безопасней, проводится когда натурный невозможен</answer4>
+    <answer3 isAnswer="false">отличий нет</answer3>
+    <answer2 isAnswer="false">натурный эксперемент качественнее, чем компьютерный</answer2>
+    <answer1 isAnswer="false">компьютерный эксперимент точнее, чем научный</answer1>
+  </question10>
+</test>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<test>
+  <question1 time="20" text="На какие виды делятся модели?" type="radio">
+    <answer4 isAnswer="false">Идеальные и частичные</answer4>
+    <answer3 isAnswer="true">Материальные и идеальные</answer3>
+    <answer2 isAnswer="false">Полные и не полные</answer2>
+    <answer1 isAnswer="false">Материальные и полные</answer1>
+  </question1>
+  <question2 time="20" text="Материальное моделирование – это моделирование, при котором" type="radio">
+    <answer4 isAnswer="false">исследование происходит с использованием уменьшенного объекта</answer4>
+    <answer3 isAnswer="false">исследование не происходит</answer3>
+    <answer2 isAnswer="false">исследование происходит с использованием идеальной концепции</answer2>
+    <answer1 isAnswer="true">исследование происходит с использованием его материального аналога</answer1>
+  </question2>
+  <question3 time="20" text="Выберите виды материального моделирования" type="check">
+    <answer4 isAnswer="true">аналоговое</answer4>
+    <answer3 isAnswer="false">интуитивное</answer3>
+    <answer2 isAnswer="false">идеальное</answer2>
+    <answer1 isAnswer="true">натурное</answer1>
+  </question3>
+  <question4 time="20" text="Какие модели используются для материального моделирования?" type="check">
+    <answer4 isAnswer="false">уменьшенная модель</answer4>
+    <answer3 isAnswer="true">аналоговая модель</answer3>
+    <answer2 isAnswer="true">физическая модель</answer2>
+    <answer1 isAnswer="false">мысленная модель</answer1>
+  </question4>
+  <question5 time="30" text="На какие два основных типа разделяют идеальное моделирование?" type="check">
+    <answer4 isAnswer="false">временное моделирование</answer4>
+    <answer3 isAnswer="false">физическое моделирование</answer3>
+    <answer2 isAnswer="true">научное моделирование</answer2>
+    <answer1 isAnswer="true">интуитивное моделирование</answer1>
+  </question5>
+  <question6 time="20" text="Какой характер носит идеальное моделирование?" type="radio">
+    <answer4 isAnswer="false">эмпирический</answer4>
+    <answer3 isAnswer="false">физический</answer3>
+    <answer2 isAnswer="true">теоретический</answer2>
+    <answer1 isAnswer="false">образный</answer1>
+  </question6>
+  <question7 time="20" text="На чем основано интуитивное моделирование?" type="radio">
+    <answer4 isAnswer="true">на необоснованном представлении об объекте</answer4>
+    <answer3 isAnswer="false">на описании объекта</answer3>
+    <answer2 isAnswer="false">на функциях объекта</answer2>
+    <answer1 isAnswer="false">на физической модели объекта</answer1>
+  </question7>
+  <question8 time="20" text="Научное моделирование – это" type="radio">
+    <answer4 isAnswer="false">представление уменьшенного объекта</answer4>
+    <answer3 isAnswer="false">описание функций объекта</answer3>
+    <answer2 isAnswer="false">формальное представление объекта</answer2>
+    <answer1 isAnswer="true">логически обоснованное моделирование</answer1>
+  </question8>
+  <question9 time="20" text="Аналоговое моделирование основано на" type="radio">
+    <answer4 isAnswer="false">экспериментах моделируемого объекта</answer4>
+    <answer3 isAnswer="false">основании наблюдений за объектом</answer3>
+    <answer2 isAnswer="false">уменьшении реального объекта</answer2>
+    <answer1 isAnswer="true">аналогии процессов и явлений объекта</answer1>
+  </question9>
+  <question10 time="20" text="Натурное моделирование – моделирование, при котором" type="radio">
+    <answer4 isAnswer="false">объект берёт на себя свойства отличного объекта</answer4>
+    <answer3 isAnswer="true">перенесение свойств объекта на его уменьшенный или увеличенный вариант</answer3>
+    <answer2 isAnswer="false">объект представляется в теоретической форме</answer2>
+    <answer1 isAnswer="false">на основе объекта строится новый объект</answer1>
+  </question10>
+</test>

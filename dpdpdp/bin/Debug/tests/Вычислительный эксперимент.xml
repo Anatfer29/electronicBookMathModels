@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<test>
+  <question1 time="20" text="Что является основой математического вычислительного эксперимента?" type="radio">
+    <answer4 isAnswer="false">физическое представление объекта</answer4>
+    <answer3 isAnswer="false">ЭВМ</answer3>
+    <answer2 isAnswer="true">математическое моделирование</answer2>
+    <answer1 isAnswer="false">бинарный код</answer1>
+  </question1>
+  <question2 time="20" text="Что является теоретической базой вычислительного эксперимента?" type="radio">
+    <answer4 isAnswer="false">натурный эксперимент</answer4>
+    <answer3 isAnswer="true">прикладная математика</answer3>
+    <answer2 isAnswer="false">механика</answer2>
+    <answer1 isAnswer="false">физика</answer1>
+  </question2>
+  <question3 time="30" text="Выберите области, в которых применяется вычислительный эксперимент" type="check">
+    <answer4 isAnswer="false">литература</answer4>
+    <answer3 isAnswer="true">биология</answer3>
+    <answer2 isAnswer="false">история</answer2>
+    <answer1 isAnswer="true">космическая техника</answer1>
+  </question3>
+  <question4 time="30" text="Что составляет технологию вычислительного эксперимента?" type="radio">
+    <answer4 isAnswer="true">видоизмененная цепочка, реализованная в виде единого программного комплекса</answer4>
+    <answer3 isAnswer="false">математическая модель</answer3>
+    <answer2 isAnswer="false">натурный эксперимент</answer2>
+    <answer1 isAnswer="false">анализ математической модели</answer1>
+  </question4>
+  <question5 time="15" text="Выберите основу вычислительного эксперимента" type="radio">
+    <answer4 isAnswer="false">проектирование-алгоритм-программа</answer4>
+    <answer3 isAnswer="true">модель-алгоритм-программа</answer3>
+    <answer2 isAnswer="false">анализ-модель-программа</answer2>
+    <answer1 isAnswer="false">модель-эксперимент-результат</answer1>
+  </question5>
+  <question6 time="15" text="Что является технической базой вычислительного эксперимента?" type="radio">
+    <answer4 isAnswer="false">эмпирический эксперимент</answer4>
+    <answer3 isAnswer="false">программа</answer3>
+    <answer2 isAnswer="true">ЭВМ</answer2>
+    <answer1 isAnswer="false">бинарный код</answer1>
+  </question6>
+  <question7 time="20" text="Как используется вычислительный эксперимент в энергетической области?" type="radio">
+    <answer4 isAnswer="true">прогнозирование атомных и термоядерных реакторов</answer4>
+    <answer3 isAnswer="false">проектирование атомныъ и термоядерных реакторов</answer3>
+    <answer2 isAnswer="false">моделирование истоичника электрического тока</answer2>
+    <answer1 isAnswer="false">прогнозирование перемещения электрического тока</answer1>
+  </question7>
+  <question8 time="35" text="Выберите преимущества вычислительного эксперимента" type="check">
+    <answer4 isAnswer="true">возможность исследования нереализуемых на практике процессов</answer4>
+    <answer3 isAnswer="true">возможность исследования каждого фактора в отдельности, в то время
+как в реальности они действуют одновременно</answer3>
+    <answer2 isAnswer="false">возможность исследования объекта без нагрузки на человека</answer2>
+    <answer1 isAnswer="true">возможность исследования объекта без модификации установки или аппарата</answer1>
+  </question8>
+  <question9 time="35" text="Возможно ли проводить исследование процесса теоретически или экспериментально независимо друг от друга" type="radio">
+    <answer4 isAnswer="false">невозможно</answer4>
+    <answer3 isAnswer="false">в некоторых случаях возможно</answer3>
+    <answer2 isAnswer="false">не знаю</answer2>
+    <answer1 isAnswer="true">возможно</answer1>
+  </question9>
+  <question10 time="60" text="Напишите первый этап вычислительного эксперимента" type="text">
+    <answer>проведение натурного эксперимента</answer>
+  </question10>
+</test>
